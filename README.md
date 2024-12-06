@@ -17,7 +17,8 @@ The Nutanix Dial Task Tracker is a web-based application designed to help projec
 This straightforward setup makes the Nutanix Dial Task Tracker both easy to deploy and scalable for diverse customer environments.
 
 ## Installation
-View WIKI pages for instructions.
+- View the [Installation Guide](https://github.com/emcandrew/Nutanix-Dial-Task-Tracker/wiki)
+
 ---
 
 ### Screenshots
