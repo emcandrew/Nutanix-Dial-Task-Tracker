@@ -8,6 +8,15 @@ To address these challenges, the **Nutanix Dial Task Tracker** provides a stream
 
 The Nutanix Dial Task Tracker is a web-based application designed to help project teams and operations personnel efficiently manage and track all tasks required during the conversion of Nutanix clusters from ESXi to AHV. By providing clear visibility into progress, this tool ensures each step is documented and completed, reducing errors and improving overall project transparency.
 
+### User Roles
+The application allows the creation of both management and non-management users with a single option: "Admin" or not. 
+- **Administrative Users**: Have the ability to:
+  - Add or remove users
+  - Update passwords
+  - Add or remove clusters
+  - Add or remove tasks
+- **Non-Administrative Users**: Have limited access to perform their assigned tasks without modifying administrative settings.
+
 ## Technical Details
 - **Web Server**: Runs on a basic IIS Web Server with support for Classic ASP.
 - **Database**:
